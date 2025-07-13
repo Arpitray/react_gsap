@@ -31,6 +31,4 @@ img{
     height:25vh;
     cursor: pointer;
 }
-img:hover{
-    scale:0.7;
-}
+
